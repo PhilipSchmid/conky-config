@@ -87,7 +87,7 @@ cp .conkyrc ~/
 ```
 
 ## Autostart
-Add `sleep 20 && conky` to your autostart.
+Add `conky -p 20` to your autostart.
 
 ## Available Conky Variables
 See http://conky.sourceforge.net/variables.html
